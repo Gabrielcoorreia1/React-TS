@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Gabrielcoorreia1.github.io/Trabalho-4",
   "name": "proj",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gabrielcoorreia1.github.io/Trabalho-4",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
