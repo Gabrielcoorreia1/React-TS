@@ -6,7 +6,7 @@
   "homepage": "https://Gabrielcoorreia1.github.io/Trabalho-4",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "server": "json-server --watch db.json --port 5000",
     "build": "tsc && vite build",
