@@ -4,7 +4,7 @@ import { api } from "../../utils/api";
 export const getComments = async (id: string) => {
     const response = await api.get('/');
     const data = response.data.record;
-    return data.messages;
+    return data.messages.filter((message : Mensage) => message.projectId === id);
 };
 
 export const addComment = async (comment: Mensage) => {

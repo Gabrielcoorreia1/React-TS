@@ -4,7 +4,7 @@ import { api } from "../../utils/api";
 export const getTasks = async (id: string) => {
     const response = await api.get('/');
     const data = response.data.record;
-    return data.tasks;
+    return data.tasks.filter((task : Task) => task.projectId === id)
 };
 
 export const addTask = async (task: Task) => {
