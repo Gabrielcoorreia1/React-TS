@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "543d4bc3-b723-4fd2-9d00-b27a65931a0a",
+      "name": "asdas",
+      "email": "asdsadad",
+      "gender": "Masculino"
+    }
+  ],
+  "projects": [
+    {
+      "id": "6bf3d792-867e-4bb5-9f06-e13598132e8d",
+      "name": "dasdsad",
+      "description": "dsadsadsdsadd",
+      "userId": "543d4bc3-b723-4fd2-9d00-b27a65931a0a"
+    }
+  ],
+  "tasks": [],
+  "comments": []
+}
