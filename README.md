@@ -1,30 +1,31 @@
-# React + TypeScript + Vite
+funcionamento:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sem projetos criados:
+![image](https://github.com/user-attachments/assets/68b72c1c-ee77-48f4-a660-e3b1bdaf092a)
 
-Currently, two official plugins are available:
+Criando Projeto:
+![image](https://github.com/user-attachments/assets/8518f871-bdb0-4546-af30-8cbbcbe3077d)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Criando um usuario para o projeto:
+![image](https://github.com/user-attachments/assets/64f5d800-2dfc-4a6e-9232-f90f3bdb691e)
 
-## Expanding the ESLint configuration
+Selecionando Usuario Criado:
+![image](https://github.com/user-attachments/assets/68bf5349-0620-4892-82fd-7a5c6af70270)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Criando Projeto com usuario:
+![image](https://github.com/user-attachments/assets/b0739b69-0c91-42aa-81cb-630b0343eba2)
 
-- Configure the top-level `parserOptions` property like this:
+Opções de editar e excluir usuario:
+![image](https://github.com/user-attachments/assets/9fa00107-7e70-427d-af19-bb67568e254f)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Criando Projeto:
+![image](https://github.com/user-attachments/assets/8d4f0e3b-99d3-45ce-bbcf-3cc6453bfb30)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Opções de editar e excluir projeto:
+![image](https://github.com/user-attachments/assets/d3b7e416-49b8-4df8-8efd-11897be12ab3)
+
+Ala do "Ver mais", podendo adicionar editar ou excluir missões para o projeto e comentario
+![image](https://github.com/user-attachments/assets/554c7c84-3a73-459a-86fa-87ca860bd08b)
+
+comentarios e task criados com opç~eos editar e excluir
+![image](https://github.com/user-attachments/assets/30db242c-671e-49ff-aec6-76a255ac7c45)
