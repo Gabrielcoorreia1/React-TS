@@ -27,5 +27,5 @@ Opções de editar e excluir projeto:
 Ala do "Ver mais", podendo adicionar editar ou excluir missões para o projeto e comentario
 ![image](https://github.com/user-attachments/assets/554c7c84-3a73-459a-86fa-87ca860bd08b)
 
-comentarios e task criados com opç~eos editar e excluir
+comentarios e task criados com opções editar e excluir
 ![image](https://github.com/user-attachments/assets/30db242c-671e-49ff-aec6-76a255ac7c45)
